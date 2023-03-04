@@ -2,7 +2,7 @@
 
 maybe todo...<br>
 
-+ does pypi have an api?
++ does pypi have an api? YES: https://pypistats.org/api/
 + scrape data
 + Bootstrap
 + tailwind
